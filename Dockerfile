@@ -4,6 +4,7 @@ ARG DEBIAN_FRONTEND=noninteractive
 LABEL version="1.0"
 LABEL author="Mauricio Nunes <mnunes@vialink.com.br>"
 
+<<<<<<< HEAD
 RUN apt-get -y -q --no-install-recommends install \
         curl \
 		ca-certificates \
