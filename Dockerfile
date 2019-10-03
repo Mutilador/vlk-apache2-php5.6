@@ -77,4 +77,4 @@ RUN a2dismod remoteip
 
 EXPOSE 80 443
 
-CMD ["apache2"]
+#CMD ["apache2"]
